@@ -30,7 +30,18 @@ https://github.com/user-attachments/assets/0d3619d5-f33e-4feb-965e-1467ae1d48d9
 2. **Informacion adccional de los jugadores:** Nombre, numero de camiseta y posicion
 3. **Programar partido con fecha:** Establecer una fecha para el partido
 4. **Visualizar resultados de partido:** Se muestra la tabla de clasificacion con toda la informacion de cada equipo
-5. **Funcion Especial:** Al equipo ganador de cada partido se le adicionan 3 puntos en la tabla de clasificacion 
+5. **Funcion Especial:** Al equipo ganador de cada partido se le adicionan 3 puntos en la tabla de clasificacion
+
+## Instalacion 📫
+
+1. Prerrequisitos
+- Python 3.8+
+- Git
+- Un editor de texto como VSCode o cualquier otro de tu preferencia
+  
+2. Clonar repositorio en el editor de texto: *git* clone https://github.com/Isa94d-lab/LIga-BetPlay.git
+
+3. Ejecutar el codigo desde el archivo *"Liga_BetPlay2.py"*
 
 ## Licencia 📜
 Este proyecto esta bajo la Licencia MIT. Para mas detalles [LICENSE](LICENSE) 
