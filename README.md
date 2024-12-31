@@ -22,7 +22,7 @@ Al ejecutar el programa desde el archivo "Liga_BetPlay2.py" se mostrara una inte
 6. **Salir** Opcion para cerrar el programa
 
 ## Prueba 🎰
-https://github.com/user-attachments/assets/c08e84ae-43bd-42bf-b7d2-ffe27ff50cf6
+https://github.com/user-attachments/assets/0d3619d5-f33e-4feb-965e-1467ae1d48d9
 
 ## Caracteristicas 📦
 
