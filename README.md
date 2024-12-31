@@ -26,11 +26,11 @@ https://github.com/user-attachments/assets/c08e84ae-43bd-42bf-b7d2-ffe27ff50cf6
 
 ## Caracteristicas 📦
 
-1. **Asignacion de jugadores al equipo** Permite elegir la cantidad de jugadores para cada equipo
-2. **Informacion adccional de los jugadores** Nombre, numero de camiseta y posicion
-3. **Programar partido con fecha** Establecer una fecha para el partido
-4. **Visualizar resultados de partido** Se muestra la tabla de clasificacion con toda la informacion de cada equipo
-5. **Funcion Especial** Al equipo ganador de cada partido se le adicionan 3 puntos en la tabla de clasificacion 
+1. **Asignacion de jugadores al equipo:** Permite elegir la cantidad de jugadores para cada equipo
+2. **Informacion adccional de los jugadores:** Nombre, numero de camiseta y posicion
+3. **Programar partido con fecha:** Establecer una fecha para el partido
+4. **Visualizar resultados de partido:** Se muestra la tabla de clasificacion con toda la informacion de cada equipo
+5. **Funcion Especial:** Al equipo ganador de cada partido se le adicionan 3 puntos en la tabla de clasificacion 
 
 ## Licencia 📜
 Este proyecto esta bajo la Licencia MIT. Para mas detalles [LICENSE](LICENSE) 
