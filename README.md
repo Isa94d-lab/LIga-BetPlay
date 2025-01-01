@@ -39,11 +39,11 @@ https://github.com/user-attachments/assets/0d3619d5-f33e-4feb-965e-1467ae1d48d9
 - Git: Necesitaras Git para clonar el repositorio. Descargalo desde [git](https://git-scm.com/) 
 - Un editor de texto como VSCode o cualquier otro de tu preferencia 
   
-2. Codigos en la terminal para instalar el proyecto
-- git clone https://github.com/Isa94d-lab/LIga-BetPlay.git
-- cd LIga-BetPlay
+2. Codigos en la terminal del editor de texto para instalar el proyecto
+- git clone https://github.com/Isa94d-lab/Piedra-papel-o-tijera.git
+- cd Piedra-papel-o-tijera
 
-3. Ejecutar el codigo desde el archivo *"Liga_BetPlay2.py"*
+3. Ejecutar el codigo desde el archivo *"Interfaz.py"*
 
 ## Licencia 📜
 Este proyecto esta bajo la Licencia MIT. Para mas detalles [LICENSE](LICENSE) 
