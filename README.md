@@ -35,11 +35,13 @@ https://github.com/user-attachments/assets/0d3619d5-f33e-4feb-965e-1467ae1d48d9
 ## Instalacion 📫
 
 1. Prerrequisitos
-- Python 3.8+
-- Git
-- Un editor de texto como VSCode o cualquier otro de tu preferencia
+- Python 3.8+: Asegurate de tener Python instalado en tu sistema. Puedes descargarlo desde [python.org.](https://www.python.org/)
+- Git: Necesitaras Git para clonar el repositorio. Descargalo desde [git](https://git-scm.com/) 
+- Un editor de texto como VSCode o cualquier otro de tu preferencia 
   
-2. Clonar repositorio en el editor de texto: *git* clone https://github.com/Isa94d-lab/LIga-BetPlay.git
+2. Codigos en la terminal para instalar el proyecto
+- git clone https://github.com/Isa94d-lab/LIga-BetPlay.git
+- cd LIga-BetPlay
 
 3. Ejecutar el codigo desde el archivo *"Liga_BetPlay2.py"*
 
